@@ -17,9 +17,9 @@
     <td width="45%" valign="top">
       <h2>🤵 About Me:</h2>
       <ul>
-        <li>🎓 <b>B.Tech Student</b> and Data Science enthusiast.</li>
+        <li>🎓 <b>GSSoC '26 Mentor</b> and Data Science enthusiast.</li>
         <li>🚀 Exploring End-to-End Machine Learning.</li>
-        <li>🛠️ Currently at <b>Infosys Springboard</b>.</li>
+        <li>🛠️ Python Intern <b>Ex-Infosys Springboard</b>.</li>
         <li>💻 Skilled in Python, SQL, and Data Science.</li>
       </ul>
     </td>
